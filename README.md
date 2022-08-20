@@ -1,7 +1,7 @@
 ##Tic Tac Toe
--Static olarak oluşturulmuş 9 adet hücremiz var
--Oyun başlangıcında startGame fonksiyonu, oluşturulan statik hücrelerin tıklanma olayını aktif ediyor
--Tıklanma olayı ile hangi hücreye tıklandığı tespit edilerek "X" veya "O" yazılması sağlandıktan sonra sıranın diğer oyuncuya verilmesi sağlanıyor
+- Static olarak oluşturulmuş 9 adet hücremiz var
+- Oyun başlangıcında startGame fonksiyonu, oluşturulan statik hücrelerin tıklanma olayını aktif ediyor
+- Tıklanma olayı ile hangi hücreye tıklandığı tespit edilerek "X" veya "O" yazılması sağlandıktan sonra sıranın diğer oyuncuya verilmesi sağlanıyor
 - winControl fonksiyonları ile satır, sütun yada köşenğenlerde kazanan olup olmadığı her hamleden sonra kontrol ediliyor
--tieControl fonksiyonu ile bütün kutular dolu ve kazanan yoksa beraberlik kontrolü yapılıyor
--newGameStart fonksiyonu ile de beraberlik ve herhangi bir tarafın kazanması sonrası oyun yeniden başlatılıyor
+- tieControl fonksiyonu ile bütün kutular dolu ve kazanan yoksa beraberlik kontrolü yapılıyor
+- newGameStart fonksiyonu ile de beraberlik ve herhangi bir tarafın kazanması sonrası oyun yeniden başlatılıyor
